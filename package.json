@@ -1,0 +1,12 @@
+{
+  "name": "plethora-atlas-contrib-cyta",
+  "version": "0.1.0",
+  "description": "CYTA Telephone Network Utilities for Plethora Atlas Project",
+  "main": "cyta.js",
+  "author": "kostasx <minaidisk@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
